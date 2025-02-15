@@ -61,7 +61,7 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![Screenshot 2025-02-15 103727](https://github.com/user-attachments/assets/02880866-058e-4825-91c9-eeca0d07fe66)
+![Screenshot 2025-02-15 192847](https://github.com/user-attachments/assets/b3f5b698-9fa1-42ac-8d07-a7484a284fcd)
 # CONCLUSION:
 The Automated Light System project was successfully implemented using the VSDSquadron Mini chip. The system efficiently detects ambient light levels using an LDR sensor and automatically controls a light source based on real-time conditions. This reduces energy consumption and eliminates the need for manual switching. The project demonstrates the practical application of embedded systems and sensor-based automation, making it suitable for home automation, street lighting, and smart buildings.
 
