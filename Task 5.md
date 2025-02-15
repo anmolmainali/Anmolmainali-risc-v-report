@@ -5,7 +5,7 @@
 
 # Components used:
 * VSDSquadron Mini Board-1
-* IR Sensor-1
+* PIR Sensor-1
 * LED-1
 * USB Cable-1
 * Jumper Wires-5
