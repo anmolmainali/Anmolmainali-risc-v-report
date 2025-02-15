@@ -13,8 +13,8 @@
 # Working & Applications:
 
    * WORKING:
-* The IR sensor is strategically placed in a location where it can detect the movement of individuals within its sensing range.
-* The IR sensor continuously monitors its surroundings for any changes in infrared radiation caused by the movement of individuals.
+* The PIR sensor is strategically placed in a location where it can detect the movement of individuals within its sensing range.
+* The PIR sensor continuously monitors its surroundings for any changes in infrared radiation caused by the movement of individuals.
 * When someone enters the detection range of the IR sensor, it detects the change in radiation and triggers an output signal.
 * When the IR sensor detects motion, it sends a signal to the microcontroller which then activates the LED lighting system. The LED lights up, providing illumination and the led will blink 3 or more times (depending upon the user how many blinks he wants to give)in the area where motion is detected which gives indication of motion detected.
 
@@ -74,6 +74,15 @@ One of the biggest challenges was calibrating the LDR sensor to detect optimal l
 
 I would  like to thank my teachers,instructor,and people who helped me during this entire program.
 # VIDEO:
+
+
+
+https://github.com/user-attachments/assets/0217a273-c351-4ff9-aec2-f23e96b5be83
+
+
+
+
+# END OF STATEMENT
 
 
 
