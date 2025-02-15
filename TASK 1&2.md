@@ -1,4 +1,8 @@
-# ANMOL Task 1
+# STUDENT INFO:
+* NAME- Anmol mainali
+* INSTITUTE- SRI SATHYA SAI INSTITUTE OF HIGHER LEARNING
+* EMAIL ID - anmolmainali10@gmail.com 
+#  Task 1
  ### Week 1 
 
  We write a C program that adds numbers from 1 to 'n'.
